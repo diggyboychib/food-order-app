@@ -1,0 +1,17 @@
+.header {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.header-button-style {
+  display: flex;
+  gap: 5px;
+}
